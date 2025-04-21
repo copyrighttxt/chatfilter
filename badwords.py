@@ -172,18 +172,40 @@ BadWords = [
     "killyourself",
     "kill yourself",
     "raped",
-    " ra.pe ",
-    " r.ape ",
-    " r.ap.e ",
-    " rapist ",
-    " rap.ist "
-    " k.ys ",
-    " ky.s ",
+    "ra.pe",
+    "r.ape",
+    "r.ap.e",
+    "rapist",
+    "rap.ist",
+    "r.apist",
+    "r.a.p.i.s.t",
+    "ra.pist",
+    "rap.ist",
+    "rapi.st",
+    "rapis.t",
+    "ra.p.ist",
+    "k.ys",
+    "ky.s",
+    "k.y.s",
     " homosexual ", #!!!!!!!!!!! literally homophobic!!!!!!!!
-    " discord.gg/ ",
-    " .gg/austiverse ", #austiblox invite
-    " .gg/kamari ", #shitty hexagon
-    " .gg/ "
+    "discord.gg/",
+    ".gg/austiverse", #austiblox invite
+    ".gg/kamari", #shitty hexagon
+    ".gg/",
+    "g.ay",
+    "ga.y",
+    "g.a.y",
+    "ga.y",
+    ".com",
+    ".net",
+    ".org",
+    ".zip",
+    ".rocks",
+    ".io",
+    "austiblox.net",
+    "kamari.zip",
+    "reddit.com", #kiddos post random stuff sometimes
+    "drive.google.com"
 ]
 
 ExtendedBadWords = [
