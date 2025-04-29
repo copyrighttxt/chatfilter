@@ -256,7 +256,8 @@ BadWords = [
     "nіgg.еr", #russian character(s)
     "nіggе.r", #russian character(s)
     "n.і.g.g.е.r", #russian character(s)
-    "kyѕ" #russian character(s)
+    "kyѕ", #russian character(s)
+    "pekora.zip" #pekora
 ]
 
 ExtendedBadWords = [
